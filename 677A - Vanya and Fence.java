@@ -4,8 +4,7 @@
             Scanner in = new Scanner(System.in);
             int n = in.nextInt();
             int h = in.nextInt();
-            int a;
-            int width = 0;
+            int a, width = 0;
             for (int i = 0;i < n;i++){
                 a = in.nextInt();
                 if (a > h){
