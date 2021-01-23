@@ -6,7 +6,7 @@ public class Sol {
        String lines = br.readLine();
        String[] str = lines.trim().split("\\s+");
        int a[] = new int[str.length];
-       for (int j=0;j <str.length;j++)
+       for (int j = 0 ; j < str.length ; j++)
            a[j] = Integer.parseInt(str[j]);
        //..................................................
         int s = 0, d = 0, min_indx = 0, max_indx = n-1; 
