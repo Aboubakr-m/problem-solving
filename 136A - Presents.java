@@ -10,7 +10,7 @@ public class sol {
         for (int i = 0; i < str.length; i++) {
             a[i] = Integer.parseInt(str[i]);
         }
-        HashMap<Integer, Integer> data = new HashMap<Integer, Integer>();
+        HashMap<Integer, Integer> data = new HashMap<>();
         for (int i = 0; i < a.length; i++) {
             data.put(a[i], i + 1);
         }
