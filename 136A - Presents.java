@@ -11,15 +11,11 @@ public class sol {
             a[i] = Integer.parseInt(str[i]);
         }
         HashMap<Integer, Integer> data = new HashMap<Integer, Integer>();
-        int t = 1;
         for (int i = 0; i < a.length; i++) {
-            data.put(a[i], t);
-            t++;
+            data.put(a[i], i + 1);
         }
-        t = 1;
-        for (int i = 0; i < a.length; i++){
-            System.out.print(data.get(t) + " ");
-            t++;
+        for (int i = 1; i <= a.length; i++){
+            System.out.print(data.get(i) + " ");
         }
     }
 }
