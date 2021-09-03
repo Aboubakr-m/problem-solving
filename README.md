@@ -5,5 +5,4 @@ The challenges can be found at
 Resources |
 ----------- |
 [codeforces] (https://codeforces.com/) |
----------------------------------------- |
 
