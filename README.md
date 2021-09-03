@@ -2,7 +2,7 @@
 This is some codeforces problems solved to practice on problem solving.
 The challenges can be found at
 
-| Resources  | ----------------------- |
+| Resources  |                         |
 | ---------- | ----------------------- |
 | codeforces | https://codeforces.com/ |
 
